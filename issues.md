@@ -14,7 +14,6 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Bugs
 (Things that are broken, inconsistent, or not behaving as intended.)
 
-- [ ] Morning Standup bubble clashing with ascii logo
 - [ ] Missing tooltips in pop up window
 
 ---
@@ -40,3 +39,4 @@ This document tracks bugs, polish items, and future ideas discovered while using
 
 ## Completed
 - [x] Clicking on a project's input field doesn't auto select all - Fixed in 1.0.1
+- [x] Morning Standup bubble clashing with ascii logo - Fixed in 1.0.2
