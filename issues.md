@@ -34,6 +34,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [ ] Sharing a task with an other account
 - [ ] Improve pages load times?
 - [ ] Start when Windows Start?
+- [ ] Add a report a bug form in Assistask
 
 ---
 
