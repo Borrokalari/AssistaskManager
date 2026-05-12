@@ -6,3 +6,5 @@
 - 1.0.2 - 05112026 - Morning standup talk bubble no longer shows when ASCii logo is shown
 
 - 1.0.3 - 05112026 - Fixed missing tooltips in pop up windows
+
+- 1.0.4 - 05122026 - Implementing Bug reporting popup. Logic not done yet
