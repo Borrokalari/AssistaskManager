@@ -16,6 +16,8 @@ This document tracks bugs, polish items, and future ideas discovered while using
 
 - [ ] One of the ":::" in the status bar doesn't seem to be centered vertically
 - [ ] Found a bug logic not implemented yet
+- [ ] When resizing the window, ascii assistask remains fixed in position
+- [ ] When resizing the window, the Morning Standup bubble remains fixed in position
 
 ---
 
@@ -35,7 +37,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [ ] Sharing a task with an other account
 - [ ] Improve pages load times?
 - [ ] Start when Windows Start?
-- [x] Add a report a bug form in Assistask (In Progress)
+- [x] Add a report a bug form in Assistask (In Progress - 1.0.4)
 - [ ] Floating popup for major versions with new stuff and changes
 
 ---
