@@ -8,3 +8,7 @@
 - 1.0.3 - 05112026 - Fixed missing tooltips in pop up windows
 
 - 1.0.4 - 05122026 - Implementing Bug reporting popup. Logic not done yet
+
+- 1.0.5 - 05122026 - Size-fixed window, realigned and recentered elements
+
+- 1.1.0 - 12052026 - (fixed date shown with dd/mm/yyyy in CL) Bug Reporting Feature added
