@@ -16,3 +16,5 @@
 - 1.1.1 - 12052026 - Fixed the text ":::" not centered in the btm status bar. Improved mtask button
 
 - 1.1.2 - 12052026 - Fixed the settings saved visual feedback missing
+
+- 1.1.3 - 13052026 - Critical to Critical Only. Section now only shows P2,P1 and P0
