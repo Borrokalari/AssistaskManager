@@ -12,3 +12,5 @@
 - 1.0.5 - 05122026 - Size-fixed window, realigned and recentered elements
 
 - 1.1.0 - 12052026 - (fixed date shown with dd/mm/yyyy in CL) Bug Reporting Feature added
+
+- 1.1.1 - 12052026 - Fixed the text ":::" not centered in the bottom status bar. Improved microtask button
