@@ -20,3 +20,5 @@
 - 1.1.3 - 13052026 - Critical to Critical Only. Section now only shows P2,P1 and P0
 
 - 1.1.4 - 13052026 - Setting to show/hide time zones added
+
+- 1.2.0 - 13052026 - Text will show when zero tasks
