@@ -21,7 +21,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Improvements
 (Small UX tweaks, polish, or quality-of-life upgrades.)
 
-- [ ] In settings; saving should have a confirmation
+- [x] In settings; saving should have a confirmation (Done - 1.1.2)
 - [ ] Add missing timezones
 - [ ] Redo signup/signin alerts to use existing alerts
 

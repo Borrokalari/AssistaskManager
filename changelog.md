@@ -14,3 +14,5 @@
 - 1.1.0 - 12052026 - (fixed date shown with dd/mm/yyyy in CL) Bug Reporting Feature added
 
 - 1.1.1 - 12052026 - Fixed the text ":::" not centered in the btm status bar. Improved mtask button
+
+- 1.1.2 - 12052026 - Fixed the settings saved visual feedback missing
