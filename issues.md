@@ -37,7 +37,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [ ] Start when Windows Start?
 - [x] Add a report a bug form in Assistask (Done - 1.1.0)
 - [ ] Floating popup for major versions with new stuff and changes
-- [ ] If Critical Only / Tasks are empty maybe show a message "Hurrah no tasks to do!"
+- [x] If Critical Only / Tasks are empty maybe show a message "Hurrah no tasks to do!" (Done in 1.2.0)
 
 ---
 
