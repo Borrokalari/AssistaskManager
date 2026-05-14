@@ -22,3 +22,5 @@
 - 1.1.4 - 13052026 - Setting to show/hide time zones added
 
 - 1.2.0 - 13052026 - Text will show when zero tasks
+
+- 1.2.1 - 14052026 - Fixed dictionary terms and page
