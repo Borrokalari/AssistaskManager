@@ -25,6 +25,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [ ] Add missing timezones
 - [ ] Redo signup/signin alerts to use existing alerts
 - [x] Add setting to disable Timezones shown entirely (Done - 1.1.4)
+- [ ] Reset password page needs a polish pass
 
 ---
 
