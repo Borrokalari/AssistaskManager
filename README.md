@@ -5,7 +5,13 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 
 ---
 
-## Screenshots
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Stack](#stack)
+- [Screenshots](#screenshots)
+
+------
 
 ![](AssistaskWindow1.png)
 
@@ -49,16 +55,16 @@ Assistask is designed to disappear and let you work.
 
 ---
 
-## Tech Stack
+## Stack
 
 - **Electron** — desktop shell  
 - **Bubble** — backend, database, and authentication  
 - **JavaScript / HTML / CSS** — renderer  
 - **Node.js** — Electron main process  
 
-## More Screenshots
+## Screenshots
 
-![](AssistaskWindow2.png)
+![AssistaskWindow2](AssistaskWindow2.png)
 
 ![AssistaskWindow3](AssistaskWindow3.png)
 
@@ -67,3 +73,4 @@ Assistask is designed to disappear and let you work.
 ![AssistaskWindow5](AssistaskWindow5.png)
 
 ![AssistaskWindow6](AssistaskWindow6.png)
+
