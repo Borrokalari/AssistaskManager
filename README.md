@@ -6,7 +6,7 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 ---
 
 ## Screenshots
-![](D:\AssistaskElectronWin\screenshots\AssistaskWindow1.png)
+![](AssistaskWindow1.png)
 
 More screenshots...
 
