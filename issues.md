@@ -14,7 +14,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Bugs
 (Things that are broken, inconsistent, or not behaving as intended.)
 
-- [ ] Limit number of characters in Priority/Projects
+- [x] No known bugs
 
 ---
 
@@ -50,3 +50,4 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] When resizing the window, the Morning Standup bubble remains fixed in position - Fixed in 1.0.5
 - [x] Found a bug logic not implemented yet - Implemented in 1.1.0
 - [x] One of the ":::" in the status bar doesn't seem to be centered vertically - Fixed in 1.1.1
+- [x] Limit number of characters in Priority/Projects - Fixed in 1.2.3

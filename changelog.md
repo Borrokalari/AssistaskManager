@@ -26,3 +26,5 @@
 - 1.2.1 - 14052026 - Fixed dictionary terms and page
 
 - 1.2.2 - 14052026 - Reset password polished and no longer leads to web version
+
+- 1.2.3 - 15052026 - cleanup, page names, char limits on projects, Fixed default values
