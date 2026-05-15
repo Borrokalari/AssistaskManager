@@ -5,10 +5,6 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 
 ---
 
-[toc]
-
-------
-
 ## Screenshots
 
 ![](AssistaskWindow1.png)
