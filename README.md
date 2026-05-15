@@ -59,12 +59,12 @@ Assistask is designed to disappear and let you work.
 
 ## More Screenshots
 
-![](D:\AssistaskElectronWin\screenshots\AssistaskWindow2.png)
+![](AssistaskWindow2.png)
 
-![AssistaskWindow3](D:\AssistaskElectronWin\screenshots\AssistaskWindow3.png)
+![AssistaskWindow3](AssistaskWindow3.png)
 
-![AssistaskWindow4](D:\AssistaskElectronWin\screenshots\AssistaskWindow4.png)
+![AssistaskWindow4](AssistaskWindow4.png)
 
-![AssistaskWindow5](D:\AssistaskElectronWin\screenshots\AssistaskWindow5.png)
+![AssistaskWindow5](AssistaskWindow5.png)
 
-![AssistaskWindow6](D:\AssistaskElectronWin\screenshots\AssistaskWindow6.png)
+![AssistaskWindow6](AssistaskWindow6.png)
