@@ -8,7 +8,9 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 ## Screenshots
 ![](AssistaskWindow1.png)
 
-More screenshots...
+[More]: MoreScreenshots
+
+
 
 ---
 
