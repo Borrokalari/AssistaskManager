@@ -34,7 +34,7 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 
 Download the latest installer from the **Releases** page:
 
-👉 https://github.com/Borrokalari/AssistaskManager/tree/main
+👉 https://github.com/Borrokalari/AssistaskManager/releases/download/v1.2.2/Assistask.Setup.1.2.2.exe
 
 Run the installer and launch Assistask from your desktop or Start menu.
 
