@@ -5,7 +5,7 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 
 ---
 
-[TOC]
+[toc]
 
 ------
 
