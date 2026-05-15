@@ -6,7 +6,9 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 ---
 
 ## Screenshots
-*(Add a screenshot of the main window or Microtask mode here)*
+![](D:\AssistaskElectronWin\screenshots\AssistaskWindow1.png)
+
+More screenshots...
 
 ---
 
@@ -55,3 +57,14 @@ Assistask is designed to disappear and let you work.
 - **JavaScript / HTML / CSS** — renderer  
 - **Node.js** — Electron main process  
 
+## More Screenshots
+
+![](D:\AssistaskElectronWin\screenshots\AssistaskWindow2.png)
+
+![AssistaskWindow3](D:\AssistaskElectronWin\screenshots\AssistaskWindow3.png)
+
+![AssistaskWindow4](D:\AssistaskElectronWin\screenshots\AssistaskWindow4.png)
+
+![AssistaskWindow5](D:\AssistaskElectronWin\screenshots\AssistaskWindow5.png)
+
+![AssistaskWindow6](D:\AssistaskElectronWin\screenshots\AssistaskWindow6.png)
