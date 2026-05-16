@@ -28,3 +28,9 @@
 - 1.2.2 - 14052026 - Reset password polished and no longer leads to web version
 
 - 1.2.3 - 15052026 - cleanup, page names, char limits on projects, Fixed default values
+
+- 1.3.0 - 16052026 - Implemented / commands. Try /today and /alltasks
+
+- 1.3.0 - 16052026 - Added new version popup
+
+- 1.3.0 - 16052026 - Added unique_id and string to show user's id in settings

@@ -33,11 +33,11 @@ This document tracks bugs, polish items, and future ideas discovered while using
 (Explorations, nice-to-haves, or potential features for later versions.)
 
 - [ ] Stats page like total completed tasks, completed streaks in a day, etc.
-- [ ] Sharing a task with an other account
+- [ ] Sharing a task with an other account (In-Progress: Unique ID added)
 - [ ] Improve pages load times?
 - [ ] Start when Windows Start?
 - [x] Add a report a bug form in Assistask (Done - 1.1.0)
-- [ ] Floating popup for major versions with new stuff and changes
+- [x] Floating popup for minor/major versions with new stuff and changes (Done - 1.3.0)
 - [x] If Critical Only / Tasks are empty maybe show a message "Hurrah no tasks to do!" (Done in 1.2.0)
 
 ---
@@ -51,3 +51,6 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] Found a bug logic not implemented yet - Implemented in 1.1.0
 - [x] One of the ":::" in the status bar doesn't seem to be centered vertically - Fixed in 1.1.1
 - [x] Limit number of characters in Priority/Projects - Fixed in 1.2.3
+- [x] New Version Splash screen added (Done - 1.3.0)
+- [x] Unique ID added (Done - 1.3.0)
+- [x] / Commands added (Done - 1.3.0)
