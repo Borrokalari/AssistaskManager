@@ -40,7 +40,8 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] Floating popup for minor/major versions with new stuff and changes (Done - 1.3.0)
 - [x] If Critical Only / Tasks are empty maybe show a message "Hurrah no tasks to do!" (Done in 1.2.0)
 - [ ] Paste a list of tasks name,p,date name,p,date name,p,date etc etc
-- [ ] Email notifications
+- [ ] Email notifications (won't do)
+- [ ] Balloon notifications
 
 ---
 
