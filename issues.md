@@ -14,7 +14,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Bugs
 (Things that are broken, inconsistent, or not behaving as intended.)
 
-- [ ] No known bugs
+- [ ] Notifications fire too often? Might have been a false negative. Monitoring.
 
 ---
 
