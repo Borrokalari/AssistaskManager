@@ -42,6 +42,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [ ] Paste a list of tasks name,p,date name,p,date name,p,date etc etc
 - [x] ~~Email notifications (won't do)~~
 - [x] Balloon notifications (Done - 1.4.0)
+- [ ] Maybe add tags to tasks? Projects in status bar could be linked?
 
 ---
 
