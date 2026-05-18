@@ -34,3 +34,5 @@
 - 1.3.0 - 16052026 - Added new version popup
 
 - 1.3.0 - 16052026 - Added unique_id and string to show user's id in settings
+
+- 1.4.0 - 18052026 - Fixed bugs, Added Balloon notifications for past due tasks

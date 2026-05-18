@@ -14,7 +14,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Bugs
 (Things that are broken, inconsistent, or not behaving as intended.)
 
-- [ ] Copy unique id tooltip wrong in settings
+- [ ] No known bugs
 
 ---
 
@@ -41,7 +41,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] If Critical Only / Tasks are empty maybe show a message "Hurrah no tasks to do!" (Done in 1.2.0)
 - [ ] Paste a list of tasks name,p,date name,p,date name,p,date etc etc
 - [x] ~~Email notifications (won't do)~~
-- [ ] Balloon notifications
+- [x] Balloon notifications (Done - 1.4.0)
 
 ---
 
@@ -57,3 +57,5 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] New Version Splash screen added (Done - 1.3.0)
 - [x] Unique ID added (Done - 1.3.0)
 - [x] / Commands added (Done - 1.3.0)
+- [x] Copy unique id tooltip wrong in settings (Fixed in 1.4.0)
+- [x] Balloon notifications for past due tasks (Done -1.4.0)
