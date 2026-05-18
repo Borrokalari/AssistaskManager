@@ -1,4 +1,4 @@
-# Assistask Manager
+# Assistask Manager (v1.4)
 
 Assistask is a lightweight desktop task manager designed for speed, clarity, and focus.  
 It combines a clean Electron desktop app with a Bubble backend to create a frictionless daily workflow.
@@ -27,6 +27,7 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 - 🖥️ Native desktop experience via Electron
 - 🟢 Tray icon with badge count
 - 🎯 Minimal, intentional UI
+- 🔔Balloon Notifications
 
 ---
 
@@ -34,7 +35,7 @@ It combines a clean Electron desktop app with a Bubble backend to create a frict
 
 Download the latest installer from the **Releases** page:
 
-👉 https://github.com/Borrokalari/AssistaskManager/releases/download/v1.2.2/Assistask.Setup.1.2.2.exe
+👉 https://github.com/Borrokalari/AssistaskManager/releases/download/v1.4.0/Assistask.Setup.1.4.0.exe
 
 Run the installer and launch Assistask from your desktop or Start menu.
 
