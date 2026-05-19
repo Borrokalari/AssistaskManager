@@ -42,3 +42,5 @@
 - 1.4.2 - 19052026 - New tasks automatically set to P3
 
 - 1.4.3 - 19052026 - Morning standup bubble position fixed, Assistask ascii logo fixed
+
+- 1.4.4 - 19052026 - Notifications Save button disabled state blocking saving
