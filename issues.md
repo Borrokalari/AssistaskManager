@@ -14,7 +14,7 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Bugs
 (Things that are broken, inconsistent, or not behaving as intended.)
 
-- [ ] Morning Standup bubble too high
+- [ ] No known bugs
 
 ---
 
@@ -64,3 +64,5 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] Polish pass on spacing and resizing of elements (Fixed - 1.4.1)
 - [x] Fixed issue where critical tasks where showing in non critical task area (Fixed - 1.4.1)
 - [x] Tasks with unset priority do not show (Fixed in 1.4.2)
+- [x] Morning standup bubble too high (Fixed in 1.4.3)
+- [x] Assistask ascii logo taking space and not being aligned (Fixed in 1.4.3)

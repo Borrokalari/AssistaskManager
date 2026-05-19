@@ -40,3 +40,5 @@
 - 1.4.1 - 19052026 - Resized window and elements, fixed bug with task shown in 2 views
 
 - 1.4.2 - 19052026 - New tasks automatically set to P3
+
+- 1.4.3 - 19052026 - Morning standup bubble position fixed, Assistask ascii logo fixed
