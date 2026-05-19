@@ -14,7 +14,8 @@ This document tracks bugs, polish items, and future ideas discovered while using
 ## Bugs
 (Things that are broken, inconsistent, or not behaving as intended.)
 
-- [ ] Notifications fire too often? Might have been a false negative. Monitoring.
+- [ ] Morning Standup bubble too high
+- [ ] Tasks with unset priority do not show
 
 ---
 
@@ -60,3 +61,6 @@ This document tracks bugs, polish items, and future ideas discovered while using
 - [x] / Commands added (Done - 1.3.0)
 - [x] Copy unique id tooltip wrong in settings (Fixed in 1.4.0)
 - [x] Balloon notifications for past due tasks (Done -1.4.0)
+- [x] Window size too big for laptop resolution (Fixed - 1.4.1)
+- [x] Polish pass on spacing and resizing of elements (Fixed - 1.4.1)
+- [x] Fixed issue where critical tasks where showing in non critical task area (Fixed - 1.4.1)

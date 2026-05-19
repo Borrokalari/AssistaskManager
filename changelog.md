@@ -36,3 +36,5 @@
 - 1.3.0 - 16052026 - Added unique_id and string to show user's id in settings
 
 - 1.4.0 - 18052026 - Fixed bugs, Added Balloon notifications for past due tasks
+
+- 1.4.1 - 19052026 - Resized window and elements, fixed bug with task shown in 2 views
