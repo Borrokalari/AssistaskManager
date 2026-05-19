@@ -38,3 +38,5 @@
 - 1.4.0 - 18052026 - Fixed bugs, Added Balloon notifications for past due tasks
 
 - 1.4.1 - 19052026 - Resized window and elements, fixed bug with task shown in 2 views
+
+- 1.4.2 - 19052026 - New tasks automatically set to P3
